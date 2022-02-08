@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0px;
+}
+.diari {
+  background-color: gray;
+  width: 50%;
+  float: left;
+}
+.finde {
+  background-color: gold;
+  width: 50%;
+  float: left;
+}
